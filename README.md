@@ -50,9 +50,9 @@ X-Code 10 - swift,
 
 ## Contributor in this project:
 
-**Vishal Kathiriya (Develop this project)**, 
-Felix Angelov(felangel) (Develop Flutter Bloc Library), 
-Jay Sabhaya (Provide his support in Android), **
+**Vishal Kathiriya @vishkathiriya (Develop this project),
+Felix Angelov(felangel)  @felangel (Develop Flutter Bloc Library), 
+Jay Sabhaya @jaysabhaya (Provide his support in Android),**
 
 
 
